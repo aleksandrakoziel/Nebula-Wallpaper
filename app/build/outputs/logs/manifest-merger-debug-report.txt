@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\0f40571d613af2fc082acee395966ab7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\de6b1cb4ad890cc94bfbc0851e6f9a5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\9e4327669cc0edf3a3d4d01d2dc5b5f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\87aa3c2ca9fa689e9716175ac8755948\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\75f85a8f24004f0a605622d6d887e066\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\7f92fac22602ecb1f57b28b788e30507\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\0e7eef6f3ec1511ee9e86b2d2a396eb3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\58a0f153990e904033f1007b0d9fcb40\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8e837f9f80785352a226deaa924e6965\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7afcdc31760d166a4affff72f2a1653c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7405da8687b12439fa85419b5dc965d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:3:11-47
+		INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+uses-feature#android.software.live_wallpaper
+ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:8:19-65
+application
+ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:10:5-38:19
+	android:label
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:11:9-35
+service#com.example.spacewallpaper.SpaceWallpaper
+ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:14:9-25:19
+	android:label
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:16:13-50
+	android:permission
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:17:13-67
+	android:name
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:15:13-69
+intent-filter#action:name:android.service.wallpaper.WallpaperService
+ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:18:13-20:29
+action#android.service.wallpaper.WallpaperService
+ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:19:17-84
+	android:name
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:19:25-82
+meta-data#android.service.wallpaper
+ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:22:13-24:47
+	android:resource
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:24:17-45
+	android:name
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:23:17-57
+activity#com.example.spacewallpaper.MainActivity
+ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:27:9-37:20
+	android:screenOrientation
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:30:13-49
+	android:configChanges
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:29:13-48
+	android:theme
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:31:13-71
+	android:name
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:28:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\0f40571d613af2fc082acee395966ab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\0f40571d613af2fc082acee395966ab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\de6b1cb4ad890cc94bfbc0851e6f9a5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\de6b1cb4ad890cc94bfbc0851e6f9a5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\9e4327669cc0edf3a3d4d01d2dc5b5f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\9e4327669cc0edf3a3d4d01d2dc5b5f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\87aa3c2ca9fa689e9716175ac8755948\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\87aa3c2ca9fa689e9716175ac8755948\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\75f85a8f24004f0a605622d6d887e066\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\75f85a8f24004f0a605622d6d887e066\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\7f92fac22602ecb1f57b28b788e30507\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\7f92fac22602ecb1f57b28b788e30507\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\0e7eef6f3ec1511ee9e86b2d2a396eb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\0e7eef6f3ec1511ee9e86b2d2a396eb3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\58a0f153990e904033f1007b0d9fcb40\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\58a0f153990e904033f1007b0d9fcb40\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8e837f9f80785352a226deaa924e6965\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8e837f9f80785352a226deaa924e6965\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7afcdc31760d166a4affff72f2a1653c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7afcdc31760d166a4affff72f2a1653c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7405da8687b12439fa85419b5dc965d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Aleksandra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7405da8687b12439fa85419b5dc965d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aleksandra\Desktop\Android\Nebula\Nebula\app\src\main\AndroidManifest.xml

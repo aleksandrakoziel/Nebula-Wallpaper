@@ -1,0 +1,4 @@
+#Fri Apr 06 16:07:47 CEST 2018
+base.0=C\:\\Users\\Aleksandra\\Desktop\\Android\\SimpleLiveWallpaper-master\\SimpleLiveWallpaper-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
